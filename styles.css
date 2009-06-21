@@ -1,0 +1,10 @@
+#container {
+  border: 1px solid black;
+  height: 400px;
+  overflow: auto;
+}
+
+#container .item {
+  height: 18px;
+  border: 1px solid red;
+}
